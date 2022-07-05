@@ -1,0 +1,257 @@
+{
+    "siteMap": {
+        "uz": "Sayt xaritasi",
+        "ru": "Карта сайта",
+        "en": "Sitemap"
+    },
+    "mobileVersion": {
+        "uz": "Mobil taqvim",
+        "ru": "Мобильная версия",
+        "en": "Mobile version"
+    },
+    "verForVisImp": {
+        "uz": "Zaif ko'ruvchilar uchun",
+        "ru": "Версия для слабовидящих",
+        "en": "Version for visually impaired"
+    },
+    "soundAcc": {
+        "uz": "Ovozli o'qish",
+        "ru": "Читай вслух",
+        "en": "Read aloud"
+    },
+    "search": {
+        "uz": "Sayt bo'ylab qidiruv",
+        "ru": "Поиск по сайту",
+        "en": "Site search"
+    },
+    "state": {
+        "uz": "O'ZBEKISTON RESPUBLIKASI <br /> O'SIMLIKLAR KARANTINI VA HIMOYASI <br /> AGENTLIGI",
+        "ru": "АГЕНТСТВО <br /> ПО КАРАНТИНУ И ЗАЩИТЕ РАСТЕНИЙ <br /> РЕСПУБЛИКИ УЗБЕКИСТАН",
+        "en": "AGENCY OF PLANT PROTECTION <br /> AND QUARANTINE OF THE REPUBLIC <br /> UZBEKISTAN"
+    },
+    "address": {
+        "uz": "Bizning manzil",
+        "ru": "Наш адресс",
+        "en": "Our address"
+    },
+    "email": {
+        "uz": "Elektron manzil",
+        "ru": "Эл. почта",
+        "en": "E-mail"
+    },
+    "hotline": {
+        "uz": "Ishonch telefoni",
+        "ru": "Телефон доверия",
+        "en": "Hotline"
+    },
+    "callCenter": {
+        "uz": "Call markaz",
+        "ru": "Call-центр",
+        "en": "Call center"
+    },
+    "symbols": {
+        "uz": "Davlat <br /> ramzlari",
+        "ru": "Государственные <br /> символы",
+        "en": "State <br /> symbols"
+    },
+    "nextTo": {
+        "uz": "Mo'ljal",
+        "ru": "Ориентир",
+        "en": "Next to"
+    },
+    "buses": {
+        "uz": "Avtobuslar",
+        "ru": "Автобусов",
+        "en": "Buses"
+    },
+    "schedule": {
+        "uz": "Ish kunlari",
+        "ru": "График работы",
+        "en": "Schedule"
+    },
+    "lunch": {
+        "uz": "Tushlik vaqti",
+        "ru": "Время обеда",
+        "en": "Lunch time"
+    },
+    "phoneNumbers": {
+        "uz": "Telefon nomerlari",
+        "ru": "Телефонные номера",
+        "en": "Phone numbers"
+    },
+    "stations": {
+        "uz": "Yaqin bekatlar",
+        "ru": "Ближайшие станции",
+        "en": "Nearby stations"
+    },
+    "rule": {
+        "uz": "O'zbekiston Respublikasi O'simliklar Karantini va Himoyasi Agentligi davlat xizmatlarini ko'rsatishda aloqa markazi (ishonch telefoni) faoliyatini tashkil etish tartibi to'g'risidagi nizom",
+        "ru": "Положение о порядке организации деятельности контакт-центра (горячей линии) при оказании государственных услуг Агентства по карантину и защите растений Республики Узбекистан",
+        "en": "Regulation on the procedure for organizing the activity of the contact center (hotline) in the provision of public services of the Plant Quarantine and Protection Agency of the Republic of Uzbekistan"
+    },
+    "see": {
+        "uz": "Ko'rish",
+        "ru": "Вид",
+        "en": "See"
+    },
+    "bankDetails": {
+        "uz": "Bank rekvizitlari",
+        "ru": "Банковские реквизиты",
+        "en": "Bank details"
+    },
+    "reconnect": {
+        "uz": "Qayta bog'lanish",
+        "ru": "Повторное подключение",
+        "en": "Reconnect"
+    },
+    "name": {
+        "uz": "Ism",
+        "ru": "Имя",
+        "en": "Name"
+    },
+    "phone": {
+        "uz": "Telefon",
+        "ru": "Телефон",
+        "en": "Phone"
+    },
+    "msg": {
+        "uz": "Xabar",
+        "ru": "Сообщение",
+        "en": "Message"
+    },
+    "send": {
+        "uz": "Jo'natish",
+        "ru": "Отправить",
+        "en": "Send"
+    },
+    "copyright": {
+        "uz": "Barcha huquqlar himoyalangan.",
+        "ru": "Все права защищены.",
+        "en": "All rights reserved."
+    },
+    "creator": {
+        "uz": "Sayt yaratuvchisi",
+        "ru": "Создатель сайта",
+        "en": "Site creator"
+    },
+    "source": {
+        "uz": "Sayt ma'lumotlaridan foydalanilganda www.karantin.uz manbasi ko'rsatilishi shart.",
+        "ru": "При использовании информации сайта необходимо указывать источник www.karantin.uz.",
+        "en": "When using site information, the source www.karantin.uz must be indicated."
+    },
+    "updated": {
+        "uz": "Saytning yangilangan sanasi",
+        "ru": "Дата обновления сайта",
+        "en": "The date the site was updated"
+    },
+    "license": {
+        "uz": "Saytdagi barcha materiallardan quyidagi lisenziya bo‘yicha foydalanish mumkin",
+        "ru": "Все материалы сайта могут быть использованы на условиях следующей лицензии",
+        "en": "All materials on the site can be used under the following license"
+    },
+    "fax": {
+        "uz": "Faks",
+        "ru": "Факс",
+        "en": "Fax"
+    },
+    "reseptionDays": {
+        "uz": "Qabul kunlari",
+        "ru": "Приемные дни",
+        "en": "Reception days"
+    },
+    "yearName": {
+        "uz": "2022-yil \"Inson qadrini ulug‘lash va faol mahalla yili\" deb e’lon qilindi",
+        "ru": "2022 год объявлен «Годом почитания человеческого достоинства и активного добрососедства».",
+        "en": "The year 2022 was declared as \"the year of glorifying human dignity and active neighborhood\"."
+    },
+    "pics": {
+        "uz": "Rasmlar",
+        "ru": "Картинки",
+        "en": "Pictures"
+    },
+    "allPics": {
+        "uz": "Barcha rasmlar",
+        "ru": "Все картинки",
+        "en": "All pictures"
+    },
+    "video": {
+        "uz": "Video",
+        "ru": "Видео",
+        "en": "Video"
+    },
+    "allVideos": {
+        "uz": "Barcha videolar",
+        "ru": "Все видео",
+        "en": "All videos"
+    },
+    "infoService": {
+        "uz": "Axborot xizmati",
+        "ru": "Информационная служба",
+        "en": "Information service"
+    },
+    "regAdm": {
+        "uz": "Hududiy boshqarmalar",
+        "ru": "Региональные администрации",
+        "en": "Regional administrations"
+    },
+    "information": {
+        "uz": "Ma'lumot",
+        "ru": "Информация",
+        "en": "Information"
+    },
+    "bio": {
+        "uz": "Tarjimai hol",
+        "ru": "Биография",
+        "en": "Biography"
+    },
+    "fullAddress": {
+        "uz": "100100, Toshkent sh., \"Bobur\" 1-berk ko'chasi, 17-uy",
+        "ru": "100100, г. Ташкент, ул. Бабура, 1 проезд дом №17",
+        "en": "100100, 17, 1 Turn, Bobur Str., Tashkent, Uzbekistan"
+    },
+    "workingDays": {
+        "uz": "Dushanba-Juma 9:00-18:00",
+        "ru": "Понедельник-Пятница 9:00-18:00",
+        "en": "Moday-Friday 9:00-18:00"
+    },
+    "ques": {
+        "uz": "So'rovnoma",
+        "ru": "Опросник",
+        "en": "Questionnaire"
+    },
+    "ans1": {
+        "uz": "A'lo",
+        "ru": "Отлично",
+        "en": "Excellent"
+    },
+    "ans2": {
+        "uz": "Yaxshi",
+        "ru": "Хороший",
+        "en": "Good"
+    },
+    "ans3": {
+        "uz": "Qoniqarli",
+        "ru": "Удовлетворительно",
+        "en": "Satisfactory"
+    },
+    "ans4": {
+        "uz": "Qoniqarsiz",
+        "ru": "Не удовлетворительно",
+        "en": "Not satisfactorily"
+    },
+    "survey": {
+        "uz": "Saytning yangi dizayni sizga yoqdimi?",
+        "ru": "Нравится ли вам новый дизайн сайта?",
+        "en": "Do you like the new design of the site?"
+    },
+    "results": {
+        "uz": "Natijalar",
+        "ru": "Результаты",
+        "en": "Results"
+    },
+    "vote": {
+        "uz": "Ovoz berish",
+        "ru": "Голосовать",
+        "en": "Vote"
+    }
+}
